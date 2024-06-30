@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>👋 Hi, I’m @karandalania23<br>🤚 I am a Frontend web developer<br>👀 I want to learn backend in the future<br>🌱 I’m currently polishing my skills in js frameworks<br>📫 How to reach me https://karandalania.netlify.app/
+<br>👋 Hi, I’m @karandalania23<br>🤚 I am a Frontend web and app developer<br>👀 I want to learn backend in the future<br>🌱 I’m currently polishing my skills in js frameworks<br>📫 How to reach me https://karandalania.netlify.app/
 
 
 ## 🌐 Socials:
